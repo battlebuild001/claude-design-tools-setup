@@ -1,6 +1,6 @@
 ---
-name: design-tools-setup
-description: Use when the user asks to set up, install, or verify the Claude Code design tools in one go (design-taste-frontend, image-to-code, web-design-guidelines, agent-browser, DESIGN.md), or when a design task starts and these skills or DESIGN.md are missing.
+name: 디자인기초
+description: 디자인 도구 5개(design-taste-frontend, image-to-code, web-design-guidelines, agent-browser, DESIGN.md)를 한 번에 설치하고 검증합니다. Use when the user asks to set up, install, or verify the Claude Code design tools in one go, or when a design task starts and these skills or DESIGN.md are missing.
 ---
 
 # Design Tools Setup
